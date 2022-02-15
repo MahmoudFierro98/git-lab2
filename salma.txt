@@ -1,6 +1,3 @@
 hello everybody from salma branch
-<<<<<<< HEAD
-salmaaaaa 
-=======
-edit by salma 
->>>>>>> f50d9dd23e1830504d092f9a86051d21d2ace97d
+a5r update
+
